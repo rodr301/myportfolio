@@ -1,7 +1,7 @@
 baseURL = "https://diegorodriguez.tech"
 languageCode = "en-us"
 title = "Diego Rodriguez"
-theme = "Poison"
+theme = "poison"
 
 [params]
   showMenuItems = 4
