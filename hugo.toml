@@ -1,0 +1,27 @@
+baseURL = "https://diegorodriguez.tech"
+languageCode = "en-us"
+title = "Diego Rodriguez"
+theme = "Poison"
+
+[params]
+  showMenuItems = 4
+  centerTheme = true
+  contentTypeName = "posts"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "/about"
+  [[menu.main]]
+    identifier = "projects"
+    name = "projects"
+    url = "/projects"
+  [[menu.main]]
+    identifier = "certs"
+    name = "certs"
+    url = "/certs"
+  [[menu.main]]
+    identifier = "homelab"
+    name = "homelab"
+    url = "/homelab"
